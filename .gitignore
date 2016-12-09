@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 /nbproject/private/
+=======
+/app/config/parameters.yml
+/build/
+/phpunit.xml
+/var/
+!var/cache/.gitkeep
+!var/logs/.gitkeep
+!var/sessions/.gitkeep
+/vendor/
+/web/bundles/
+>>>>>>> fa09f36232c067c6285ee88e7316564f47944ac5
